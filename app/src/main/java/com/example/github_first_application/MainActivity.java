@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Toast.makeText(getApplicationContext(),"Firstgithubproject",Toast.LENGTH_LONG).show();
+        // Hello Vichu
     }
 }
